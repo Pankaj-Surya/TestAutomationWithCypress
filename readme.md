@@ -21,6 +21,11 @@ This project showcases automated testing using Cypress, focusing on validating a
 3. Captures error messages correctly on invalid inputs.
 
 
+## Github Action CICD Result
+
+Check the [CI/CD results](https://github.com/Pankaj-Surya/TestAutomationWithCypress/actions/runs/9930202210/job/27428652638) for the latest build status and logs.
+
+ 
 
 ## Setup Instructions
 
@@ -55,5 +60,9 @@ yarn cypress:open
 npx  cypress run --browser chrome --headed  
 
 ### Specific Tests
-npx  cypress run --browser chrome --headed --spec .\cypress\e2e\signup_login_spec.cy.js  
+npx  cypress run --browser chrome --headed --spec .\cypress\e2e\signup_login_spec.cy.js 
+
+
+
+
 
