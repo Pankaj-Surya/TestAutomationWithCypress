@@ -25,7 +25,11 @@ This project showcases automated testing using Cypress, focusing on validating a
 
 Check the [CI/CD results](https://github.com/Pankaj-Surya/TestAutomationWithCypress/actions/runs/9930202210/job/27428652638) for the latest build status and logs.
 
- 
+## Test Case Execution Result
+
+![Test Case Execution](https://github.com/Pankaj-Surya/TestAutomationWithCypress/raw/main/cypress/reports/mochawesome/assets/image.png)
+
+
 
 ## Setup Instructions
 
